@@ -12,3 +12,5 @@
 | 2026-11-08 | 复盘：BGP 第 1 讲实验之夜——4 个故障定位与修复 | [05-bgp-lab-01-review.md](05-bgp-lab-01-review.md) |
 | 2026-11-09 | BGP 第 2 讲 — 路由发布与选路全属性（深度版） | [06-bgp-route-publication-selection.md](06-bgp-route-publication-selection.md) |
 | 2026-11-11 | BGP 第 3 讲 — 选路调优（AS_PATH Prepend、Community、路由汇总） | [07-bgp-route-tuning.md](07-bgp-route-tuning.md) |
+| 2026-11-12 | 企业网络排障学习手册 — SIM-003 光链路、SIM-004 上联拥塞、SIM-005 IPsec MTU/MSS（与 Codex 的学习讨论，模拟案例） | [08-troubleshooting-manual-sim-003-005.md](08-troubleshooting-manual-sim-003-005.md) |
+| 2026-11-12 | 企业网络排障学习手册 — SIM-001 WLAN 体验故障、SIM-002 双 WAN 出口性能异常（第 1、2 天训练记录，V0.1，模拟案例） | [09-troubleshooting-manual-sim-001-002.md](09-troubleshooting-manual-sim-001-002.md) |
